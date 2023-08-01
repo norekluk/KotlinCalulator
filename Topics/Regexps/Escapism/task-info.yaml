@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: val regex = TODO()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10725#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 27 Jul 2023 17:06:41 UTC"
+record: -1
+submission_language: kotlin
